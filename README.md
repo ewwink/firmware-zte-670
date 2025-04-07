@@ -21,7 +21,7 @@ Firmware GPON ZTE F670 V2.0, Masih default/bawaan ISP Indonesia.
 
 **F670-JFFS2.zip**
 
-Adalah file JFFS2 yang sudah di extract, untuk UI ada di folder `flag_type/httpd` dan fungsi yang berhubungan dengan konfigurasi dengan hardware kemungkinan ada di file `kmodule/zte_gpon.ko`
+Adalah file JFFS2 yang sudah di extract, untuk UI ada di folder `flag_type/httpd` dan fungsi yang berhubungan dengan konfigurasi hardware atau dekripsi config.bin mungkin ada di file `*.ko` seperti `kmodule/zte_gpon.ko`
 
 ![image](https://github.com/user-attachments/assets/1990522f-6ccf-4cac-b421-cbbe829eb699)
 
